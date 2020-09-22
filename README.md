@@ -2,6 +2,6 @@
 
 Genetic Algorithm
 
-IDE used: Visual Studio Code
+IDE used: Eclipse
 
-Distro used: macOS
+Distro used: Arch Linux - KDE
